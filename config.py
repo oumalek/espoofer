@@ -1,7 +1,7 @@
 config = {
-	"attacker_site": b"attack.com", # attack.com
+	"attacker_site": b"gitdi.us", # gitdi.us
 	"legitimate_site_address": b"admin@legitimate.com", # From header address displayed to the end-user
-	"victim_address": b"victim@victim.com", # RCPT TO and message.To header address, 
+	"victim_address": b"adeghoui90@gmail.com", # RCPT TO and message.To header address, 
 	"case_id": b"server_a1", #  You can find all case_id using -l option.
 
 	# The following fields are optional
